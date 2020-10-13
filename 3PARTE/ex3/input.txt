@@ -1,0 +1,13 @@
+creditar 1 1000
+creditar 2 2000
+lerSaldo 1
+lerSaldo 2
+debitar 2 50
+lerSaldo 2
+creditar 3 3000
+creditar 4 4000
+lerSaldo 3
+lerSaldo 4
+debitar 4 1000
+lerSaldo 4
+sair

@@ -1,0 +1,20 @@
+creditar 1 100
+creditar 2 200
+info
+lerSaldo 1
+lerSaldo 2
+debitar 1 50
+info
+lerSaldo 1
+debitar 2 100
+debitar 1 70
+lerSaldo 2
+lerSaldo 1
+debitar 2 20
+debitar 1 10
+debitar 2 25
+debitar 1 15
+lerSaldo 2
+lerSaldo 1
+info
+sair 
